@@ -1,0 +1,84 @@
+html {
+    font-size: 16px;
+    box-sizing: border-box;
+    
+}
+
+* {
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    color: rgb(11, 11, 11);
+    
+}
+
+img {
+    color: rgba(46, 71, 93, 0.37);
+    height: 200px;
+    width: ;
+    
+}
+
+h1 {
+    margin: 10px;
+}
+
+p {
+    margin: 10px;
+}
+
+.left-column {
+    margin-right: 20px;
+    flex: 1;
+    order: 1;
+}
+
+.right-column {
+    flex: 1;
+    order: 2;
+}
+
+.dyr-nils {
+    background-color: antiquewhite;
+    height: 200px; 
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.dyr1 {
+    background-color: antiquewhite;
+    height: 200px; 
+    display: flex;
+    margin-bottom: 20px;
+    
+}
+
+.dyr2 {
+    background-color: antiquewhite;
+    height: 200px; 
+    display: flex;
+    margin-bottom: 20px;
+    
+}
+
+.dyr3 {
+    background-color: antiquewhite;
+    height: 200px; 
+    display: flex;
+    margin-bottom: 20px;
+    
+}
+
+.dyr4 {
+    background-color: antiquewhite;
+    height: 200px; 
+    display: flex;
+    
+}

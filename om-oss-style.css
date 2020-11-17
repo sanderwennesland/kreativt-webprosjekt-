@@ -1,0 +1,86 @@
+body {
+    color: rgba(0, 137, 255, 0.47);
+    background-color: rgba(245, 248, 255, 0.6);
+    flex-direction: column; 
+    text-align: center;
+}
+
+h1 {
+    color: rgba(82, 81, 81, 0.86);
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.om-oss {
+    /*background-color: green*/
+}
+
+.om-oss h1 {
+    
+}
+
+.om-oss p {
+    margin: 5%;
+    text-align: left;
+}
+
+.maskott {
+    /*background-color: orange;*/
+    
+}
+
+.maskott h1 {
+    
+}
+
+.maskott section {
+    display: flex;
+}
+
+.kart {
+    height: 100%;
+    width: 100%;
+    /*background-color: yellow;*/
+}
+
+.kontakt {
+    
+    /*background-color: blueviolet;*/
+}
+
+.kontakt h1{
+    
+}
+
+.kontakt section {
+    display: flex;
+    
+}
+
+.kontakt p {
+    flex: 1;
+}
+
+.nils {
+    /*background-color: red;*/
+    flex: 1;
+    width: 27%;
+    height: auto;
+    position: relative;
+    align-content: flex-end;
+
+}
+
+.nils-text {
+    margin: 5%;
+    text-align: left;
+    /*background-color: blue;*/
+    position: relative;
+    flex: 3;
+    float: left;
+    vertical-align: middle;
+
+}
